@@ -1,0 +1,13 @@
+[0910/164851.863:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie. (0xc000010a)
+[0910/164851.863:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0910/164851.847:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0910/164851.863:ERROR:exception_snapshot_win.cc(99)] thread ID 18840 not found in process
+[0910/164851.863:ERROR:exception_snapshot_win.cc(99)] thread ID 11752 not found in process
+[0910/164851.847:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0910/164851.863:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0910/164851.863:ERROR:exception_snapshot_win.cc(99)] thread ID 9412 not found in process
+[0910/164851.863:ERROR:process_info.cc(551)] ReadProcessData failed
+[0910/164851.847:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0910/164851.863:ERROR:exception_snapshot_win.cc(99)] thread ID 6152 not found in process
+[0910/164851.878:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0910/164851.878:ERROR:exception_snapshot_win.cc(99)] thread ID 18696 not found in process
